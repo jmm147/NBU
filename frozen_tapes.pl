@@ -10,7 +10,7 @@
 #																							#
 # Thanks:	Thanks to Adrian Neville for the basis of this script							#
 #																							#
-# Usage: frozen_tape.pl																		#
+# Usage: frozen_tapes.pl																	#
 #																							#
 # License:	MIT License																		#
 #																							#
